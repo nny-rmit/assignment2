@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-5, .cls-7 {
+        stroke-width: .75px;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #231f20;
+      }
+
+      .cls-9, .cls-8 {
+        fill: #c2d832;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #848484;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-9" d="M23.25,28.74l.12,1.21,1.21.12c-.29-.48-.12-1.38.44-1.55,1.26-.38,1.93,1.13.88,1.85h-1.09c.15.42.22.85,0,1.27,1.46-.58,2.21,1.6.73,2-.48.13-.55-.12-.97-.19.37.6.29,1.41-.42,1.7-.93.38-1.79-.47-1.4-1.4l-1.09-.06c.16,2.28-2.99,1.63-1.93-.36l-.78.24c-.57-.13-.91-.46-1.04-1.04l.24-.78c-1.83.8-2.15-2.04-.43-1.81.81.11,1.02,1.09.55,1.69l.67-.24.78.24c.03-.26-.23-.41-.24-.67-.01-.22.16-.43.12-.66-.64.06-1.09.04-1.43-.57-.23-.95.39-1.57,1.34-1.34.61.34.62.78.57,1.43h1.09c-.18-1.28.67-1.71,1.81-1.33-.8-2.04,2.33-2.03,1.76-.23-.21.65-.97.69-1.52.48ZM22.77,30.55h-.97c.2.31.07.52,0,.85l.97.12v-.97ZM21.07,32c-.44.26-.83,0-1.21-.24l.24.78-.24.67,1.09-.24.12-.97ZM24.34,32.12l-1.09-.12c.14.45.15.76,0,1.21.46-.17.78-.11,1.21.12-.14-.47-.36-.69-.12-1.21Z"/>
+    <circle class="cls-9" cx="22.16" cy="35.74" r=".98"/>
+    <circle class="cls-9" cx="20.71" cy="27.77" r=".98"/>
+    <circle class="cls-9" cx="27" cy="31.03" r=".95"/>
+    <circle class="cls-9" cx="19.02" cy="35.62" r=".93"/>
+    <circle class="cls-9" cx="25.3" cy="35.74" r=".93"/>
+    <circle class="cls-9" cx="22.28" cy="26.32" r=".92"/>
+    <circle class="cls-9" cx="26.87" cy="34.17" r=".92"/>
+    <circle class="cls-9" cx="17.45" cy="34.05" r=".92"/>
+    <circle class="cls-9" cx="23.73" cy="37.31" r=".87"/>
+    <circle class="cls-9" cx="19.14" cy="26.2" r=".87"/>
+    <circle class="cls-9" cx="25.42" cy="26.32" r=".87"/>
+    <circle class="cls-9" cx="20.59" cy="37.19" r=".87"/>
+    <circle class="cls-9" cx="17.57" cy="27.77" r=".87"/>
+    <circle class="cls-9" cx="26.99" cy="27.89" r=".87"/>
+    <circle class="cls-9" cx="16" cy="29.34" r=".85"/>
+    <circle class="cls-9" cx="15.88" cy="32.48" r=".85"/>
+    <circle class="cls-9" cx="28.44" cy="32.6" r=".85"/>
+    <circle class="cls-9" cx="28.57" cy="29.46" r=".83"/>
+    <circle class="cls-9" cx="23.85" cy="24.75" r=".83"/>
+    <circle class="cls-9" cx="20.71" cy="24.75" r=".83"/>
+    <circle class="cls-9" cx="22.16" cy="38.88" r=".81"/>
+    <circle class="cls-9" cx="26.87" cy="37.31" r=".81"/>
+    <circle class="cls-9" cx="15.88" cy="35.62" r=".81"/>
+    <circle class="cls-9" cx="17.45" cy="37.19" r=".81"/>
+    <circle class="cls-9" cx="28.45" cy="35.74" r=".79"/>
+    <circle class="cls-9" cx="19.02" cy="38.76" r=".77"/>
+    <circle class="cls-9" cx="14.43" cy="30.91" r=".77"/>
+    <circle class="cls-9" cx="17.57" cy="24.63" r=".75"/>
+    <circle class="cls-9" cx="14.43" cy="27.77" r=".75"/>
+    <circle class="cls-9" cx="28.57" cy="26.32" r=".75"/>
+    <circle class="cls-9" cx="22.28" cy="23.18" r=".75"/>
+    <circle class="cls-9" cx="30.14" cy="31.03" r=".75"/>
+    <circle class="cls-9" cx="26.99" cy="24.75" r=".75"/>
+    <circle class="cls-9" cx="14.31" cy="34.05" r=".75"/>
+    <circle class="cls-9" cx="30.02" cy="34.17" r=".75"/>
+    <circle class="cls-9" cx="25.3" cy="38.88" r=".75"/>
+    <circle class="cls-9" cx="16" cy="26.2" r=".75"/>
+    <circle class="cls-9" cx="23.73" cy="40.46" r=".72"/>
+    <circle class="cls-9" cx="25.42" cy="23.18" r=".72"/>
+    <circle class="cls-9" cx="20.59" cy="40.33" r=".72"/>
+    <circle class="cls-9" cx="30.14" cy="27.89" r=".72"/>
+    <circle class="cls-9" cx="19.14" cy="23.06" r=".72"/>
+    <circle class="cls-9" cx="12.86" cy="29.34" r=".67"/>
+    <circle class="cls-9" cx="31.59" cy="32.6" r=".67"/>
+    <circle class="cls-9" cx="14.31" cy="37.19" r=".67"/>
+    <circle class="cls-9" cx="30.02" cy="37.31" r=".67"/>
+    <circle class="cls-9" cx="12.74" cy="32.48" r=".67"/>
+    <circle class="cls-9" cx="15.88" cy="38.76" r=".67"/>
+    <circle class="cls-9" cx="28.44" cy="38.88" r=".67"/>
+    <circle class="cls-9" cx="22.16" cy="42.03" r=".64"/>
+    <circle class="cls-9" cx="16" cy="23.06" r=".64"/>
+    <circle class="cls-9" cx="20.71" cy="21.61" r=".64"/>
+    <circle class="cls-9" cx="26.87" cy="40.46" r=".64"/>
+    <circle class="cls-9" cx="17.45" cy="40.33" r=".64"/>
+    <circle class="cls-9" cx="31.71" cy="29.46" r=".64"/>
+    <circle class="cls-9" cx="31.59" cy="35.74" r=".64"/>
+    <circle class="cls-9" cx="30.14" cy="24.75" r=".64"/>
+    <circle class="cls-9" cx="12.74" cy="35.62" r=".64"/>
+    <circle class="cls-9" cx="14.43" cy="24.63" r=".64"/>
+    <circle class="cls-9" cx="23.85" cy="21.61" r=".64"/>
+    <circle class="cls-9" cx="28.57" cy="23.18" r=".64"/>
+    <circle class="cls-9" cx="25.3" cy="42.03" r=".62"/>
+    <circle class="cls-9" cx="19.02" cy="41.9" r=".62"/>
+    <circle class="cls-9" cx="31.71" cy="26.32" r=".62"/>
+    <circle class="cls-9" cx="11.29" cy="30.91" r=".62"/>
+    <circle class="cls-9" cx="17.57" cy="21.49" r=".62"/>
+    <circle class="cls-9" cx="27" cy="21.61" r=".62"/>
+    <circle class="cls-9" cx="33.16" cy="31.03" r=".62"/>
+    <circle class="cls-9" cx="12.86" cy="26.2" r=".62"/>
+    <circle class="cls-9" cx="22.28" cy="20.04" r=".59"/>
+    <circle class="cls-9" cx="11.17" cy="34.05" r=".59"/>
+    <circle class="cls-9" cx="33.16" cy="34.17" r=".59"/>
+    <circle class="cls-9" cx="11.29" cy="27.77" r=".59"/>
+    <circle class="cls-9" cx="15.88" cy="41.9" r=".56"/>
+    <circle class="cls-9" cx="12.74" cy="38.76" r=".56"/>
+    <circle class="cls-9" cx="25.42" cy="20.04" r=".56"/>
+    <circle class="cls-9" cx="19.14" cy="19.91" r=".56"/>
+    <circle class="cls-9" cx="31.59" cy="38.88" r=".56"/>
+    <circle class="cls-9" cx="28.44" cy="42.02" r=".56"/>
+    <circle class="cls-9" cx="14.31" cy="40.33" r=".56"/>
+    <circle class="cls-9" cx="33.28" cy="27.89" r=".56"/>
+    <circle class="cls-9" cx="30.02" cy="40.45" r=".56"/>
+    <circle class="cls-9" cx="20.59" cy="43.47" r=".56"/>
+    <circle class="cls-9" cx="23.73" cy="43.6" r=".56"/>
+    <circle class="cls-9" cx="12.86" cy="23.06" r=".53"/>
+    <circle class="cls-9" cx="31.71" cy="23.18" r=".53"/>
+    <circle class="cls-9" cx="33.16" cy="37.31" r=".53"/>
+    <circle class="cls-9" cx="11.17" cy="37.19" r=".53"/>
+    <circle class="cls-9" cx="9.72" cy="29.34" r=".53"/>
+    <circle class="cls-9" cx="30.14" cy="21.61" r=".53"/>
+    <circle class="cls-9" cx="14.43" cy="21.49" r=".53"/>
+    <circle class="cls-9" cx="34.73" cy="32.6" r=".53"/>
+    <circle class="cls-9" cx="9.72" cy="32.48" r=".53"/>
+    <circle class="cls-9" cx="17.45" cy="43.48" r=".53"/>
+    <circle class="cls-9" cx="26.99" cy="18.47" r=".49"/>
+    <circle class="cls-9" cx="16" cy="19.92" r=".49"/>
+    <circle class="cls-9" cx="28.57" cy="20.04" r=".49"/>
+    <circle class="cls-9" cx="11.29" cy="24.63" r=".49"/>
+    <circle class="cls-9" cx="33.28" cy="24.75" r=".49"/>
+    <circle class="cls-9" cx="9.72" cy="26.2" r=".49"/>
+    <circle class="cls-9" cx="34.85" cy="26.32" r=".49"/>
+    <circle class="cls-9" cx="8.15" cy="30.91" r=".49"/>
+    <circle class="cls-9" cx="36.3" cy="31.03" r=".49"/>
+    <circle class="cls-9" cx="8.03" cy="34.05" r=".49"/>
+    <circle class="cls-9" cx="34.85" cy="29.46" r=".49"/>
+    <circle class="cls-9" cx="30.02" cy="43.6" r=".49"/>
+    <circle class="cls-9" cx="9.6" cy="35.62" r=".49"/>
+    <circle class="cls-9" cx="34.73" cy="35.74" r=".49"/>
+    <circle class="cls-9" cx="11.17" cy="40.33" r=".49"/>
+    <circle class="cls-9" cx="33.16" cy="40.46" r=".49"/>
+    <circle class="cls-9" cx="12.74" cy="41.9" r=".49"/>
+    <circle class="cls-9" cx="31.59" cy="42.03" r=".49"/>
+    <circle class="cls-9" cx="17.57" cy="18.34" r=".49"/>
+    <circle class="cls-9" cx="14.31" cy="43.48" r=".49"/>
+    <circle class="cls-9" cx="20.71" cy="18.47" r=".49"/>
+    <circle class="cls-9" cx="23.85" cy="18.47" r=".49"/>
+    <circle class="cls-9" cx="26.87" cy="43.6" r=".49"/>
+    <circle class="cls-9" cx="19.02" cy="45.05" r=".49"/>
+    <circle class="cls-9" cx="22.16" cy="45.17" r=".49"/>
+    <circle class="cls-9" cx="25.3" cy="45.17" r=".49"/>
+    <circle class="cls-9" cx="11.29" cy="21.49" r=".46"/>
+    <circle class="cls-9" cx="36.3" cy="34.17" r=".46"/>
+    <circle class="cls-9" cx="8.15" cy="27.77" r=".46"/>
+    <circle class="cls-9" cx="34.73" cy="38.88" r=".46"/>
+    <circle class="cls-9" cx="22.28" cy="16.89" r=".46"/>
+    <circle class="cls-9" cx="12.86" cy="19.92" r=".46"/>
+    <circle class="cls-9" cx="33.28" cy="21.61" r=".46"/>
+    <circle class="cls-9" cx="19.14" cy="16.77" r=".46"/>
+    <circle class="cls-9" cx="31.71" cy="20.04" r=".46"/>
+    <circle class="cls-9" cx="25.42" cy="16.89" r=".46"/>
+    <circle class="cls-9" cx="9.6" cy="38.76" r=".46"/>
+    <circle class="cls-9" cx="9.72" cy="23.06" r=".46"/>
+    <circle class="cls-9" cx="15.88" cy="45.05" r=".46"/>
+    <circle class="cls-9" cx="36.42" cy="27.89" r=".46"/>
+    <circle class="cls-9" cx="28.45" cy="45.17" r=".46"/>
+    <circle class="cls-9" cx="20.59" cy="46.62" r=".46"/>
+    <circle class="cls-9" cx="9.72" cy="19.92" r=".39"/>
+    <circle class="cls-9" cx="30.14" cy="18.47" r=".39"/>
+    <circle class="cls-9" cx="14.43" cy="18.34" r=".39"/>
+    <circle class="cls-9" cx="11.29" cy="18.34" r=".39"/>
+    <circle class="cls-9" cx="28.57" cy="16.89" r=".39"/>
+    <circle class="cls-9" cx="16" cy="16.77" r=".39"/>
+    <circle class="cls-9" cx="8.03" cy="40.33" r=".39"/>
+    <circle class="cls-9" cx="36.3" cy="40.45" r=".39"/>
+    <circle class="cls-9" cx="26.99" cy="15.32" r=".39"/>
+    <circle class="cls-9" cx="5.01" cy="30.91" r=".39"/>
+    <circle class="cls-9" cx="23.85" cy="15.32" r=".39"/>
+    <circle class="cls-9" cx="20.71" cy="15.32" r=".39"/>
+    <circle class="cls-9" cx="6.58" cy="29.34" r=".39"/>
+    <circle class="cls-9" cx="9.6" cy="41.9" r=".39"/>
+    <circle class="cls-9" cx="6.46" cy="35.62" r=".39"/>
+    <circle class="cls-9" cx="34.73" cy="42.03" r=".39"/>
+    <circle class="cls-9" cx="37.99" cy="29.46" r=".39"/>
+    <circle class="cls-9" cx="37.87" cy="35.74" r=".39"/>
+    <circle class="cls-9" cx="37.87" cy="32.6" r=".39"/>
+    <circle class="cls-9" cx="6.58" cy="32.48" r=".39"/>
+    <circle class="cls-9" cx="11.17" cy="43.48" r=".39"/>
+    <circle class="cls-9" cx="37.99" cy="26.32" r=".39"/>
+    <circle class="cls-9" cx="8.03" cy="37.19" r=".39"/>
+    <circle class="cls-9" cx="33.16" cy="43.6" r=".39"/>
+    <circle class="cls-9" cx="36.3" cy="37.31" r=".39"/>
+    <circle class="cls-9" cx="34.85" cy="23.18" r=".39"/>
+    <circle class="cls-9" cx="12.74" cy="45.05" r=".39"/>
+    <circle class="cls-9" cx="6.58" cy="26.2" r=".39"/>
+    <circle class="cls-9" cx="36.42" cy="24.75" r=".39"/>
+    <circle class="cls-9" cx="17.57" cy="15.2" r=".39"/>
+    <circle class="cls-9" cx="31.59" cy="45.17" r=".39"/>
+    <circle class="cls-9" cx="8.15" cy="24.63" r=".39"/>
+    <circle class="cls-9" cx="14.31" cy="46.62" r=".39"/>
+    <circle class="cls-9" cx="17.45" cy="46.62" r=".39"/>
+    <circle class="cls-9" cx="23.73" cy="46.74" r=".39"/>
+    <circle class="cls-9" cx="26.87" cy="46.74" r=".39"/>
+    <circle class="cls-9" cx="30.02" cy="46.74" r=".39"/>
+    <circle class="cls-9" cx="19.02" cy="48.19" r=".39"/>
+    <circle class="cls-9" cx="22.16" cy="48.19" r=".39"/>
+    <circle class="cls-9" cx="25.3" cy="48.31" r=".39"/>
+  </g>
+  <g>
+    <g>
+      <circle class="cls-3" cx="66.42" cy="60.77" r="9.15"/>
+      <circle class="cls-1" cx="66.42" cy="60.57" r="13.16"/>
+    </g>
+    <circle class="cls-4" cx="66.42" cy="60.77" r="7.97"/>
+  </g>
+  <g>
+    <g>
+      <circle class="cls-5" cx="77.68" cy="57.95" r="5.16"/>
+      <circle class="cls-5" cx="86.52" cy="51.87" r="8.15"/>
+      <circle class="cls-2" cx="77.72" cy="57.67" r="7.42"/>
+      <circle class="cls-2" cx="86.53" cy="51.82" r="10.39"/>
+    </g>
+    <circle class="cls-7" cx="86.52" cy="51.89" r="7.31"/>
+    <circle class="cls-7" cx="77.68" cy="57.95" r="4.49"/>
+    <circle class="cls-7" cx="86.53" cy="51.82" r="5.53"/>
+    <circle class="cls-7" cx="77.67" cy="58.02" r="2.93"/>
+  </g>
+  <g>
+    <g>
+      <circle class="cls-3" cx="30.24" cy="36.78" r="8.74"/>
+      <circle class="cls-3" cx="45.83" cy="27.41" r="13.81"/>
+      <circle class="cls-1" cx="30.35" cy="36.3" r="12.58"/>
+      <circle class="cls-1" cx="45.85" cy="27.32" r="17.6"/>
+    </g>
+    <circle class="cls-4" cx="45.82" cy="27.45" r="12.39"/>
+    <circle class="cls-4" cx="30.24" cy="36.78" r="7.62"/>
+    <circle class="cls-4" cx="45.85" cy="27.32" r="9.38"/>
+    <circle class="cls-4" cx="30.22" cy="36.88" r="4.97"/>
+  </g>
+  <path class="cls-6" d="M62.18,78.64l-5.49-5.71c.6-.96,1.14-1.97,1.6-3.04,1.66-3.82,2.2-7.84,1.78-11.7l7.12-2.86-4.41-10.98-6.97,2.8c-2.19-3.03-5.14-5.55-8.72-7.27l1.38-7.29-11.62-2.2-1.38,7.28c-3.46.25-6.81,1.28-9.8,2.98l-5.18-5.39-8.53,8.2,5.3,5.51c-.47.8-.91,1.64-1.29,2.52-1.75,4.03-2.26,8.29-1.7,12.34l-7.32,2.94,4.41,10.98,7.47-3c2.15,2.8,4.97,5.14,8.35,6.76l-1.52,8.01,11.62,2.2,1.52-8.01c3.25-.24,6.4-1.16,9.25-2.69l5.6,5.83,8.53-8.2ZM28.18,58.07c2.04-4.68,7.48-6.83,12.17-4.79s6.83,7.48,4.79,12.17-7.48,6.83-12.17,4.79-6.83-7.48-4.79-12.17Z"/>
+  <path class="cls-8" d="M85.46,20.58l-4.36,2.14c-.45-.53-.94-1.03-1.48-1.5-1.92-1.68-4.17-2.74-6.5-3.21l-.34-4.69-7.23.53.34,4.59c-2.17.71-4.2,1.97-5.87,3.74l-4-2.16-3.45,6.38,4,2.16c-.5,2.07-.52,4.22-.08,6.28l-4.12,2.02,3.2,6.51,4.2-2.07c.38.43.79.84,1.23,1.22,2.03,1.77,4.42,2.86,6.89,3.29l.35,4.82,7.23-.53-.36-4.92c2.04-.73,3.93-1.94,5.5-3.62l4.4,2.38,3.45-6.38-4.4-2.38c.47-1.94.51-3.96.15-5.9l4.45-2.19-3.2-6.51ZM67.12,36.61c-2.36-2.06-2.6-5.64-.54-8,2.06-2.36,5.64-2.6,8-.54s2.6,5.64.54,8-5.64,2.6-8,.54Z"/>
+  <g>
+    <polygon class="cls-9" points="90.38 68.43 82.1 67.81 77.6 72.54 85.88 73.15 86.88 81.39 91.38 76.67 90.38 68.43"/>
+    <polygon class="cls-9" points="85.21 73.85 76.93 73.24 72.43 77.96 80.7 78.57 81.71 86.81 86.21 82.09 85.21 73.85"/>
+    <polygon class="cls-9" points="79.8 79.52 71.52 78.91 67.01 83.63 75.29 84.25 76.29 92.48 80.8 87.76 79.8 79.52"/>
+  </g>
+</svg>

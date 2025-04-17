@@ -2,7 +2,8 @@ body {
     background-color: rgb(45, 45, 45);}
 
         .row{
-            margin-top:40px;
+            width:720px;
+            margin:10px auto ;
         }
         .left-column{
             float:left;
@@ -22,5 +23,6 @@ body {
             display: table-cell;
             vertical-align: middle;
             margin: auto;
+            padding:20px;
         }
 

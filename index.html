@@ -10,33 +10,33 @@
 <body>
 
     <div class="row">
-        <div class="image-container"><img id="icon1" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
-        <div class="image-container"><img id="img2" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
-        <div class="image-container"><img id="img3" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon1" src="img/1.svg" onmouseover="this.src='img/a1.svg'" onmouseout="this.src='img/1.svg'" height="200" width="200"/></div>
+        <div class="image-container"><img id="img2" src="img/2.svg" onmouseover="this.src='img/a2.svg'" onmouseout="this.src='img/2.svg'" height="200" width="200"/></div>
+        <div class="image-container"><img id="img3" src="img/3.svg" onmouseover="this.src='img/a3.svg'" onmouseout="this.src='img/3.svg'" height="200" width="200"/></div>
     </div>
 
     <div class="row">
-        <div class="image-container"><img id="img4" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
-        <div class="image-container"><img id="img5" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
-        <div class="image-container"><img id="img6" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
+        <div class="image-container"><img id="img4" src="img/4.svg" onmouseover="this.src='img/a4.svg'" onmouseout="this.src='img/4.svg'" height="200" width="200"/></div>
+        <div class="image-container"><img id="img5" src="img/5.svg" onmouseover="this.src='img/a5.svg'" onmouseout="this.src='img/5.svg'" height="200" width="200"/></div>
+        <div class="image-container"><img id="img6" src="img/6.svg" onmouseover="this.src='img/a6.svg'" onmouseout="this.src='img/6.svg'" height="200" width="200"/></div>
         </div>
 
     <div class="row">
-        <div class="image-container"><img id="img7" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
-        <div class="image-container"><img id="img8" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
-        <div class="image-container"><img id="img9" src="img/1.png" onmouseover="this.src='img/alt1.png'" onmouseout="this.src='img/1.png'" height="200" width="200"/></div>
+        <div class="image-container"><img id="img7" src="img/7.svg" onmouseover="this.src='img/a7.svg'" onmouseout="this.src='img/7.svg'" height="200" width="200"/></div>
+        <div class="image-container"><img id="img8" src="img/8.svg" onmouseover="this.src='img/a8.svg'" onmouseout="this.src='img/8.svg'" height="200" width="200"/></div>
+        <div class="image-container"><img id="img9" src="img/9.svg" onmouseover="this.src='img/a9.svg'" onmouseout="this.src='img/9.svg'" height="200" width="200"/></div>
     </div>
     
     <script>
-        var sound1 = new buzz.sound("sound/click.mp3");
-        var sound2 = new buzz.sound("sound/clack.mp3");
-        var sound3 = new buzz.sound("sound/clap.mp3");
-        var sound4 = new buzz.sound("sound/click.mp3");
-        var sound5 = new buzz.sound("sound/clack.mp3");
-        var sound6 = new buzz.sound("sound/clap.mp3");
-        var sound7 = new buzz.sound("sound/click.mp3");
-        var sound8 = new buzz.sound("sound/clack.mp3");
-        var sound9 = new buzz.sound("sound/clap.mp3");
+        var sound1 = new buzz.sound("sound/music.mp3");
+        var sound2 = new buzz.sound("sound/trash.mp3");
+        var sound3 = new buzz.sound("sound/files.mp3");
+        var sound4 = new buzz.sound("sound/mail.mp3");
+        var sound5 = new buzz.sound("sound/browser.mp3");
+        var sound6 = new buzz.sound("sound/notepad.mp3");
+        var sound7 = new buzz.sound("sound/settings.mp3");
+        var sound8 = new buzz.sound("sound/clipboard.mp3");
+        var sound9 = new buzz.sound("sound/power.mp3");
  
         window.onload = function() {
             document.getElementById('icon1').addEventListener('mouseover', function () {sound1.play(); });  

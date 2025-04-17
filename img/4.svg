@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #9b9a9a;
+      }
+
+      .cls-5 {
+        fill: #e8efb5;
+      }
+
+      .cls-6 {
+        fill: #c2d832;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <circle class="cls-2" cx="44.03" cy="29.37" r="10.71"/>
+      <circle class="cls-2" cx="26.12" cy="42.63" r="16.93"/>
+      <circle class="cls-1" cx="43.96" cy="29.96" r="15.41"/>
+      <circle class="cls-1" cx="26.11" cy="42.73" r="21.57"/>
+    </g>
+    <circle class="cls-3" cx="26.13" cy="42.57" r="15.19"/>
+    <circle class="cls-3" cx="44.03" cy="29.37" r="9.33"/>
+    <circle class="cls-3" cx="26.21" cy="41.83" r="11.49"/>
+    <circle class="cls-3" cx="44.05" cy="29.24" r="6.09"/>
+  </g>
+  <polygon class="cls-4" points="33.51 86.98 90.97 73.11 76.78 35.9 24.87 47.19 33.51 86.98"/>
+  <polygon class="cls-6" points="76.01 36.06 57.57 61.26 25.77 46.85 76.01 36.06"/>
+  <path class="cls-5" d="M77.55,84.07l-1.09,1.21c-.93.86-2.44.41-2.75-.82l-2-11.32c-.25-.99.45-1.97,1.46-2.07l12.67.34c1.44-.13.05,1.82-.83,2.98l-.57.76c-.52.69-.43,1.66.21,2.24l5.98,4.99c.64.58,1.11,1.12.59,1.81l-2.87,3.57c-.57.76-1.67.89-2.4.28l-5.72-4.76c-.64-.54-2.07.21-2.68.78Z"/>
+</svg>
